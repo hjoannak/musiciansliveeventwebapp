@@ -1,4 +1,5 @@
-Musicians Live Event Web App
+# Musicians Live Event Web App
+
 Please clone this repo using git clone. Navigate to the my-react-app directory and run the command npm run dev in your terminal. Then type o + enter to run the application in a browser.
 
 Click "get started" to get started with the app when you see the homepage.
